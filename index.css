@@ -178,8 +178,12 @@ body {
     }
 
     h3 {
-      font: 'Just Another Hand';
-      color: #969595;
+      font-family: 'Just Another Hand';
+      font-size: 25px;
+      font-style: normal;
+      letter-spacing: 2px;
+      font-variant: normal;
+      color: #000000;
     }
 
     .stickyshine1 {
